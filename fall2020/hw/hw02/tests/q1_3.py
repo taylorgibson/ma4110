@@ -1,0 +1,12 @@
+test = {   'name': 'q1_3',
+    'points': 1,
+    'suites': [   {   'cases': [   {'code': ">>> ',' in with_commas\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> ',' not in without_commas\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': '>>> len(with_commas) == 24\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> len(without_commas) == 22\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': ">>> with_commas == 'Eats, Shoots, and Leaves'\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> without_commas == 'Eats Shoots and Leaves'\nTrue", 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
