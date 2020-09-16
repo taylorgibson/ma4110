@@ -1,0 +1,11 @@
+test = {   'name': 'q2_2_3',
+    'points': 1,
+    'suites': [   {   'cases': [   {'code': '>>> type(number_of_emperors)  == np.ndarray\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> len(number_of_emperors) == 8\nTrue', 'hidden': False, 'locked': False},
+                                   {   'code': '>>> # Do you have the correct number ;\n>>> # of emperors;\n>>> np.array_equal(number_of_emperors, [7,  4,  3,  7, 35,  1,  1, 10])\nTrue',
+                                       'hidden': False,
+                                       'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
